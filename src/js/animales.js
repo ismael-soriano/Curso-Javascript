@@ -1,18 +1,18 @@
 var Animal = {
     comer: function() {
-        
+        console.log("Estoy comiendo");
     }
 }
 
 var AnimalVolador = {
     volar: function() {
-        
+        console.log("Estoy volando");
     }
 }
 
 var Output = {
-    write: function () {
-        console.log(this);
+    write: function (item) {
+        console.log(item);
     }
 }
 
