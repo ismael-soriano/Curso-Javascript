@@ -1,0 +1,10 @@
+Github credentials          - http://stackoverflow.com/questions/15381198/remove-credentials-from-git/15382950#15382950
+EcmaScript 6 Features       - http://es6-features.org
+31 days of Refactoring      - https://lostechies.com/wp-content/uploads/2011/03/31DaysRefactoring.pdf
+                            - http://geeks.ms/jtorrecilla/
+Entity Framework source     - https://entityframework.codeplex.com/SourceControl/latest#src/EntityFramework
+Async, Await source         - http://www.filipekberg.se/2013/01/16/what-does-async-await-generate/
+Emmet                       - http://emmet.io/
+Underscore vs Lo-dash       - http://benmccormick.org/2014/11/12/underscore-vs-lodash/
+Javascript mixins           - https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/
+                            + https://www.safaribooksonline.com/library/view/learning-javascript-design/9781449334840/ch09s13.html

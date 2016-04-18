@@ -1,1 +1,0 @@
-Github credentials -  http://stackoverflow.com/questions/15381198/remove-credentials-from-git/15382950#15382950
