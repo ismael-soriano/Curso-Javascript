@@ -8,3 +8,4 @@ Emmet                       - http://emmet.io/
 Underscore vs Lo-dash       - http://benmccormick.org/2014/11/12/underscore-vs-lodash/
 Javascript mixins           - https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/
                             + https://www.safaribooksonline.com/library/view/learning-javascript-design/9781449334840/ch09s13.html
+Javascript inheritance      - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
