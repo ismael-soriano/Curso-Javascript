@@ -7,6 +7,7 @@
                 var pepe = "Hola Pepe";
                 console.log(saludo + " " + name);
             }
+            
             console.log(i);
             console.log(pepe);
         },
@@ -18,6 +19,9 @@
             for (i; i <= 10; i++) {
                 console.log(saludo + " " + name);
             }
+            
+            console.log(i);
+            console.log(pepe);
         }
     }
 } (window.Vueling))
