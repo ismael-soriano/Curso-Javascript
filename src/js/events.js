@@ -19,7 +19,7 @@
 
     document.addEventListener('DOMContentLoaded', bootStrap, false);
     document.addEventListener('readystatechange', ready, false);*/
-    
+
     function bootStrap() {
         function click(ev) {
             ev.preventDefault();
@@ -30,6 +30,5 @@
     }
     
     $(document).ready(bootStrap);
-    
 } ())
 

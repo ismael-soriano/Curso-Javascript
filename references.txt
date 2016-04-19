@@ -15,3 +15,4 @@ Javascript Promise          - http://www.html5rocks.com/en/tutorials/es6/promise
                             + https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promesa
 Javascript Events           - https://developer.mozilla.org/en-US/docs/Web/Events
 CDN                         - https://es.wikipedia.org/wiki/Red_de_entrega_de_contenidos
+on vs bind vs live          - http://elijahmanor.com/differences-between-jquery-bind-vs-live-vs-delegate-vs-on/

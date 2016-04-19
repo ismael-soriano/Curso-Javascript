@@ -22,8 +22,6 @@
     Gato = function () { }
     Loro = function () { }
 
-    Object.assign(Gato.prototype, Animal, Output);
-    Object.assign(Loro.prototype, Animal, AnimalVolador, Output);
+    Object.assign(Gato.prototype, mixins.Animal, mixins.Output);
+    Object.assign(Loro.prototype, mixins.Animal, mixins.AnimalVolador, mixins.Output);
 } (window.Vueling))
-
-
