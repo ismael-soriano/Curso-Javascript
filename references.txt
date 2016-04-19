@@ -9,3 +9,9 @@ Underscore vs Lo-dash       - http://benmccormick.org/2014/11/12/underscore-vs-l
 Javascript mixins           - https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/
                             + https://www.safaribooksonline.com/library/view/learning-javascript-design/9781449334840/ch09s13.html
 Javascript inheritance      - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+Javascript Worker           - http://www.html5rocks.com/es/tutorials/workers/basics/
+Xmlresquest Javascript      - http://www.w3schools.com/ajax/ajax_xmlhttprequest_send.asp
+Javascript Promise          - http://www.html5rocks.com/en/tutorials/es6/promises/?redirect_from_locale=es
+                            + https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promesa
+Javascript Events           - https://developer.mozilla.org/en-US/docs/Web/Events
+CDN                         - https://es.wikipedia.org/wiki/Red_de_entrega_de_contenidos
