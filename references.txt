@@ -17,3 +17,4 @@ Javascript Events           - https://developer.mozilla.org/en-US/docs/Web/Event
 CDN                         - https://es.wikipedia.org/wiki/Red_de_entrega_de_contenidos
 on vs bind vs live          - http://elijahmanor.com/differences-between-jquery-bind-vs-live-vs-delegate-vs-on/
 Command line API            - https://developer.chrome.com/devtools/docs/commandline-api
+use strict                  - https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Modo_estricto
