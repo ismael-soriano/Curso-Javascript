@@ -8,6 +8,8 @@
             data.forEach(function (item) {
                 var tableRow = $('<tr/>');
                 
+                table = 
+                
                 tableRow.append($('<td/>').text(item.Id));
                 tableRow.append($('<td/>').text(item.Name));
                 tableRow.append($('<td/>').text(item.Phone));
