@@ -1,0 +1,123 @@
+http://stackoverflow.com/questions/6763006/how-to-get-the-tbody-element-of-a-table-using-jquery | How to get the tbody element of a table using JQuery? - Stack Overflow
+https://fiddlerbook.com/fiddler/dev/scriptsamples.asp | Fiddler Web Debugger - Script Samples
+http://blog.steveklabnik.com/posts/2011-07-03-nobody-understands-rest-or-http | Nobody Understands REST or HTTP - Literate Programming
+http://stackoverflow.com/questions/14967457/how-to-extract-custom-header-value-in-web-api-message-handler | c# - How to extract custom header value in Web API message handler? - Stack Overflow
+
+https://www.google.es/search?q=log+pooling&ie=utf-8&oe=utf-8&gws_rd=cr&ei=ZqEgV-CCD4-9gAatt4zADw#q=long+polling+server | long polling server - Buscar con Google
+https://en.wikipedia.org/wiki/Comet_(programming) | Comet (programming) - Wikipedia, the free encyclopedia
+http://www.html5rocks.com/en/tutorials/eventsource/basics/ | Stream Updates with Server-Sent Events - HTML5 Rocks
+
+https://laravel.com/ | Laravel - The PHP Framework For Web Artisans
+https://api.jquery.com/jquery.get/ | jQuery.get() | jQuery API Documentation
+http://stackoverflow.com/questions/1666898/jquery-autocomplete-results | jquery autocomplete results - Stack Overflow
+http://api.jquery.com/html/ | .html() | jQuery API Documentation
+http://stackoverflow.com/questions/8749236/create-table-with-jquery-append | javascript - Create table with jQuery - append - Stack Overflow
+http://www.w3schools.com/html/html_tables.asp | HTML Tables
+http://www.w3schools.com/tags/tag_tbody.asp | HTML tbody tag
+http://stackoverflow.com/questions/15605823/why-is-httprequest-sending-the-options-verb-instead-of-post | Why is HttpRequest sending the OPTIONS verb instead of POST? - Stack Overflow
+https://www.w3.org/TR/cors/ | Cross-Origin Resource Sharing
+https://jwt.io/ | JSON Web Tokens - jwt.io
+
+http://www.asp.net/web-api/overview/advanced/http-message-handlers | HTTP Message Handlers in ASP.NET Web API | The ASP.NET Site
+https://www.stevefenton.co.uk/2012/11/using-cors-with-asp-net-web-api/ | Using CORS With ASP NET Web API - Steve Fenton
+http://enable-cors.org/server_wcf.html | enable cross-origin resource sharing
+https://msdn.microsoft.com/en-us/magazine/dn532203.aspx | ASP.NET Web API - CORS Support in ASP.NET Web API 2
+http://simpleinjector.readthedocs.org/en/latest/webapiintegration.html | ASP.NET Web API Integration Guide — Simple Injector 3 documentation
+http://vdisk.weibo.com/s/aK8h8G1KA09Y- | it-ebooks-2015_微盘下载
+https://bitbucket.org/luzaoban/app/src/97f60250635b526ee891c43d7df3703d89489f14/restaurantDemo/app/controllers/index.js?at=master&fileviewer=file-view-default | Página de inicio de Mozilla Firefox
+https://github.com/jsperf/jsperf.com/issues/18#issuecomment-113569132 | jsperf.com: 503 Service Temporarily Unavailable · Issue #18 · jsperf/jsperf.com · GitHub
+http://jshint.com/ | JSHint, a JavaScript Code Quality Tool
+https://lostechies.com/wp-content/uploads/2011/03/31DaysRefactoring.pdf | Microsoft Word - 31DaysRefactoring.docx - 31DaysRefactoring.pdf
+file:///C:/Users/admin/Downloads/Clean%20Code.pdf | Clean Code.pdf
+http://geeks.ms/jtorrecilla/ | El blog de Javier Torrecilla – Otro sitio más de Geeks.ms
+http://blog.codinghorror.com/new-programming-jargon/ | New Programming Jargon
+http://www.dodgycoder.net/2011/11/yoda-conditions-pokemon-exception.html | Dodgy Coder: "Yoda Conditions", "Pokémon Exception Handling" and other programming classics
+http://martinfowler.com/bliki/CQRS.html | CQRS
+http://martinfowler.com/bliki/CommandQuerySeparation.html | CommandQuerySeparation
+https://entityframework.codeplex.com/SourceControl/latest#src/EntityFramework/DbContext.cs | Entity Framework - Source Code
+http://www.filipekberg.se/2013/01/16/what-does-async-await-generate/ | What does async & await generate?
+http://www.theregister.co.uk/2015/12/07/visual_studio_code_git_integration/ | Visual Studio Code: How to integrate Git • The Register
+http://emmet.io/download/ | Download
+http://www.sitepoint.com/currying-in-functional-javascript/ | A Beginner's Guide to Currying in Functional JavaScript
+http://ramdajs.com/0.21.0/index.html | Ramda Documentation
+http://www.2ality.com/2011/04/iterating-over-arrays-and-objects-in.html | Iterating over arrays and objects in JavaScript
+https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/forEach | Array.prototype.forEach() - JavaScript | MDN
+http://stackoverflow.com/questions/960866/how-can-i-convert-the-arguments-object-to-an-array-in-javascript | How can I convert the "arguments" object to an array in JavaScript? - Stack Overflow
+http://docs.sequelizejs.com/en/latest/docs/models-definition/ | Definition - Sequelize | The Node.js / io.js ORM for PostgreSQL, MySQL, SQLite and MSSQL
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys | Object.keys() - JavaScript | MDN
+http://benmccormick.org/2014/11/12/underscore-vs-lodash/ | Underscore vs Lo-Dash
+https://geekytheory.com/prototipado-y-herencia-en-javascript/ | Prototipado y herencia en JavaScript – Geeky Theory
+https://developer.mozilla.org/es/docs/Web/JavaScript/Herencia_y_la_cadena_de_protipos | Herencia y la cadena de prototipos - JavaScript | MDN
+file:///C:/Users/admin/AppData/Local/Temp/Temp1_design-patterns-explained-simply.zip/design-patterns-explained-simply.pdf | - design-patterns-explained-simply.pdf
+https://code.visualstudio.com/docs/editor/extension-gallery | Managing Extensions in Visual Studio Code
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#mixinpatternjavascript | Learning JavaScript Design Patterns
+http://www.html5rocks.com/es/tutorials/workers/basics/ | The Basics of Web Workers - HTML5 Rocks
+http://www.html5rocks.com/en/tutorials/es6/promises/?redirect_from_locale=es | JavaScript Promises: There and back again - HTML5 Rocks
+https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promesa | Promesa - JavaScript | MDN
+http://www.w3schools.com/cssref/css_selectors.asp | CSS Selectors Reference
+http://www.w3schools.com/cssref/trysel.asp | Try CSS Selector
+http://stackoverflow.com/questions/1070760/javascript-function-in-href-vs-onclick | JavaScript function in href vs. onclick - Stack Overflow
+http://tutorialzine.com/2014/06/10-tips-for-writing-javascript-without-jquery/ | 10 Tips for Writing JavaScript without jQuery | Tutorialzine
+http://stackoverflow.com/questions/5518929/hide-multiple-tr-div-with-javascript-without-jquery | hide multiple tr, div with javascript without jquery - Stack Overflow
+http://stackoverflow.com/questions/5220852/anyway-to-change-href-of-link-with-no-id-and-no-jquery | javascript - Anyway to change href of link with no id and no jquery? - Stack Overflow
+https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault | Event.preventDefault() - Web APIs | MDN
+https://jquery.com/ | jQuery
+https://learn.jquery.com/using-jquery-core/document-ready/ | $( document ).ready() | jQuery Learning Center
+http://elijahmanor.com/differences-between-jquery-bind-vs-live-vs-delegate-vs-on/ | Differences Between jQuery .bind() vs .live() vs .delegate() vs .on()
+http://www.sitepoint.com/faster-workflow-mastering-emmet-part-3/ | Faster Workflow: Mastering Emmet, Part 3
+https://api.jquery.com/keypress/ | .keypress() | jQuery API Documentation
+http://stackoverflow.com/questions/4088467/get-the-value-in-an-input-text-box | jquery - Get the value in an input text box - Stack Overflow
+https://developer.mozilla.org/en-US/docs/Web/API/Document/createDocumentFragment | Document.createDocumentFragment() - Web APIs | MDN
+https://www.google.es/search?q=create+data+from+string+javascript&ie=utf-8&oe=utf-8&gws_rd=cr&ei=BjIWV4mhBMzUgAbNwa_wBw#q=html+from+json+ajax | html from json ajax - Buscar con Google
+http://api.jquery.com/jquery.getjson/ | jQuery.getJSON() | jQuery API Documentation
+http://haacked.com/ | You've Been Haacked
+http://api.jquery.com/appendto/ | .appendTo() | jQuery API Documentation
+https://developer.chrome.com/devtools/docs/commandline-api | Command Line API Reference - Google Chrome
+http://www.asp.net/mvc | ASP.NET MVC | The ASP.NET Site
+http://stackoverflow.com/questions/19892232/how-to-connect-visual-studio-2012-with-git-github | How to Connect Visual Studio 2012 with git (github)? - Stack Overflow
+https://git-scm.com/book/es/v1/Fundamentos-de-Git-Trabajando-con-repositorios-remotos | Git - Trabajando con repositorios remotos
+http://stackoverflow.com/questions/19696963/razor-view-throwing-the-name-model-does-not-exist-in-the-current-context | asp.net mvc - Razor View throwing "The name 'model' does not exist in the current context" - Stack Overflow
+https://www.google.es/search?q=asp.net+no+se+ha+registrado+en+el+servidor+web&ie=utf-8&oe=utf-8&gws_rd=cr&ei=4FIXV6qVCISKU6iPtIgI | asp.net no se ha registrado en el servidor web - Buscar con Google
+http://stackoverflow.com/questions/4953330/razor-based-view-doesnt-see-referenced-assemblies | asp.net mvc - Razor-based view doesn't see referenced assemblies - Stack Overflow
+http://stackoverflow.com/questions/19696963/razor-view-throwing-the-name-model-does-not-exist-in-the-current-context | asp.net mvc - Razor View throwing "The name 'model' does not exist in the current context" - Stack Overflow
+http://weblogs.asp.net/jongalloway/10-things-asp-net-developers-should-know-about-web-config-inheritance-and-overrides | Jon Galloway - 10 Things ASP.NET Developers Should Know About Web.config Inheritance and Overrides
+https://social.msdn.microsoft.com/Forums/es-ES/3b5936c7-b1a3-488c-96bc-c025881a148e/ayuda-con-el-connection-string-mvc?forum=aspnetmvces | Ayuda con el connection String MVC
+https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_de_estado_HTTP | Anexo:Códigos de estado HTTP - Wikipedia, la enciclopedia libre
+https://www.youtube.com/watch?v=LmMd7pXdN1E | Pagina Usuario EntityFramework MVC ASP.NET - YouTube
+http://stackoverflow.com/questions/16800280/how-to-interactively-visually-resolve-conflicts-in-sourcetree-git | git merge - How to interactively (visually) resolve conflicts in SourceTree / git - Stack Overflow
+https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf | Pro Git - progit-en.1084.pdf
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailnamespacing | Learning JavaScript Design Patterns
+http://robdodson.me/javascript-design-patterns-strategy/ | JavaScript Design Patterns: Strategy
+https://es.wikipedia.org/wiki/HTTP/2 | HTTP/2 - Wikipedia, la enciclopedia libre
+http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/ | Introduction to JavaScript Source Maps - HTML5 Rocks
+https://spring.io/blog/2016/01/28/angularjs-escaping-the-expression-sandbox-for-xss | AngularJS - Escaping the Expression Sandbox for XSS
+http://jsfiddle.net/user/pedrohurtado/ | pedrohurtado's Fiddles - JSFiddle - Online JavaScript Editor - jQuery, Angular, Backbone, Underscore, Knockout, YUI
+https://developers.google.com/drive/v2/reference/files/get#examples | Files: get  |  Drive REST API v2  |  Google Developers
+https://docs.angularjs.org/api/ng/service/$compile | AngularJS: API: $compile
+https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_de_estado_HTTP | Anexo:Códigos de estado HTTP - Wikipedia, la enciclopedia libre
+https://es.wikipedia.org/wiki/Representational_State_Transfer | Representational State Transfer - Wikipedia, la enciclopedia libre
+http://www.adictosaltrabajo.com/tutoriales/rest-y-el-principio-de-idempotencia/ | REST y el principio de idempotencia | adictosaltrabajo
+https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol | Hyper Text Coffee Pot Control Protocol - Wikipedia, the free encyclopedia
+http://stackoverflow.com/questions/23118249/whats-the-difference-between-request-payload-vs-form-data-as-seen-in-chrome | http - What's the difference between "Request Payload" vs "Form Data" as seen in Chrome dev tools Network tab - Stack Overflow
+https://es.wikipedia.org/wiki/CURL | cURL - Wikipedia, la enciclopedia libre
+https://www.google.es/search?q=pixel+attack&ie=utf-8&oe=utf-8&gws_rd=cr&ei=ZtYdV-izBcutgAaNybiQBQ#q=pixel+perfect+timing+attack | pixel perfect timing attack - Buscar con Google
+https://es.wikipedia.org/wiki/Redis | Redis - Wikipedia, la enciclopedia libre
+http://blog.codinghorror.com/protecting-your-cookies-httponly/ | Protecting Your Cookies: HttpOnly
+https://en.wikipedia.org/wiki/Cross-site_request_forgery | Cross-site request forgery - Wikipedia, the free encyclopedia
+http://blog.stevensanderson.com/2008/09/01/prevent-cross-site-request-forgery-csrf-using-aspnet-mvcs-antiforgerytoken-helper/ | Prevent Cross-Site Request Forgery (CSRF) using ASP.NET MVC’s AntiForgeryToken() helper
+http://geeks.ms/etomas/2014/05/14/sobre-webapi-cookies-y-csrf/ | Sobre WebApi, cookies y CSRF – Burbujas en .NET
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS | HTTP access control (CORS) - HTTP | MDN
+http://geeks.ms/phurtado/2012/10/30/los-4-jinetes-del-apocalipsis/ | Los 4 Jinetes del Apocalipsis – El Blog de Pedro Hurtado
+https://es.wikipedia.org/wiki/JSONP | JSONP - Wikipedia, la enciclopedia libre
+https://jsfiddle.net/ | Create a new fiddle - JSFiddle
+https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop | Postman - Chrome Web Store
+http://kpensar.com/blog/2014/05/27/inyecci%C3%B3n-de-dependencias-y-net-mvc/ | kPensar : Inyección de dependencias y .NET MVC.
+https://dyball.wordpress.com/2014/04/28/sql-2014-localdb-error-cannot-connect-to-locaidbv12-o/ | SQL 2014 LocalDB Error: “Cannot connect to (localdb)v12.O.” | some assembly required, batteries not included
+http://www.telerik.com/download/fiddler/first-run | First run
+http://stackoverflow.com/questions/6876732/how-do-i-get-nuget-to-install-update-all-the-packages-in-the-packages-config | How do I get NuGet to install/update all the packages in the packages.config? - Stack Overflow
+http://stackoverflow.com/questions/26358287/how-do-i-resolve-web-api-controllers-using-autofac-in-a-mixed-web-api-and-mvc-ap | c# - How do I resolve Web API controllers using Autofac in a mixed Web API and MVC application? - Stack Overflow
+http://www.arlocarreon.com/blog/git/untrack-files-in-git-repos-without-deleting-them/ | Untrack Files In Git Repos Without Deleting Them | Arlo Carreon
+https://try.github.io/levels/1/challenges/21 | Code School - Try Git
+http://weblogs.asp.net/shijuvarghese/dependency-injection-in-asp-net-web-api-using-autofac | Shiju Varghese's Blog - Dependency Injection in ASP.NET Web API using Autofac
+http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/action-results | Action Results in Web API 2 | The ASP.NET Site
+http://stackoverflow.com/questions/21901808/need-a-complete-sample-to-handle-unhandled-exceptions-using-exceptionhandler-i/21904939 | c# - Need a complete sample to handle unhandled exceptions using "ExceptionHandler" in ASP.NET Web Api? - Stack Overflow

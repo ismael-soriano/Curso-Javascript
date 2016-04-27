@@ -1,22 +1,19 @@
-(function (namespace) {
-
+(function ($) {
+    function getCustomers() {
         $.get("http://localhost:4239/api/customer")
-        .then(function (data) {
-            var target = $('body'),
-                source = $('table>tbody');
+            .then(function (data) {
+                var target = $("table>tbody");
 
-            data.forEach(function (item) {
-                var tableRow = $('<tr/>');
-                
-                table = 
-                
-                tableRow.append($('<td/>').text(item.Id));
-                tableRow.append($('<td/>').text(item.Name));
-                tableRow.append($('<td/>').text(item.Phone));
-                source.append(tableRow);
+                data.forEach(function (item) {
+                    var tableRow = $("<tr/>");
+
+                    tableRow.append($("<td/>").text(item.Id));
+                    tableRow.append($("<td/>").text(item.Name));
+                    tableRow.append($("<td/>").text(item.Phone));
+                    target.append(tableRow);
+                });
             });
+    }
 
-            target.append(source);
-            //alert("Load was performed.");
-        });       
-}())
+    $(document).ready(getCustomers);
+} ());
