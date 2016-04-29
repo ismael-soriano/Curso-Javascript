@@ -1,3 +1,32 @@
+https://www.google.es/search?q=webforms+crud&ie=utf-8&oe=utf-8&gws_rd=cr&ei=m6whV-byK8KLU_HBmhA | webforms crud - Buscar con Google
+http://docs.autofac.org/en/latest/integration/webforms.html | Web Forms — Autofac 4.0 documentation
+https://lostechies.com/derickbailey/2009/05/19/a-net-c-developer-s-gitignore-file/ | A .NET (C#) Developer’s .gitignore File | ThoughtStream.new :derick_bailey
+https://github.com/ismael-soriano/Curso-NET | GitHub - ismael-soriano/Curso-NET
+http://localhost:1952/Customer/Edit/1 | Edit - Mi aplicación ASP.NET MVC
+view-source:http://localhost:1952/Customer/Edit/1 | view-source:http://localhost:1952/Customer/Edit/1
+http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/171/Creating-ASP-NET-Web-Forms-CRUD-Pages-Using-ServerApplicationContext.aspx | LightSwitch Help Website > Blog - Creating ASP.NET Web Forms CRUD Pages Using ServerApplicationContext
+https://msdn.microsoft.com/es-es/library/system.web.ui.webcontrols.datagrid(v=vs.110).aspx | DataGrid (Clase) (System.Web.UI.WebControls)
+http://www.dotnetperls.com/querystring | ASP.NET QueryString Examples
+https://msdn.microsoft.com/en-us/library/aa728879(v=vs.71).aspx | Walkthrough: Displaying Data in a Web Forms Page
+https://msdn.microsoft.com/en-us/library/ms228046.aspx | Creating a Custom Column in a GridView Web Server Control
+http://www.w3schools.com/aspnet/aspnet_forms.asp | ASP.NET Web Forms
+http://www.w3schools.com/aspnet/aspnet_textbox.asp | ASP.NET The TextBox Control
+https://nicolocodev.wordpress.com/2011/08/31/patronmvpnet/ | [C #] Implementando el patron MVP en .NET | Blog de Nicoloco
+http://docs.autofac.org/en/latest/integration/wcf.html#services | Windows Communication Foundation (WCF) — Autofac 4.0 documentation
+http://www.codeproject.com/Articles/571813/A-Beginners-Tutorial-on-Creating-WCF-REST-Services | A Beginner's Tutorial on Creating WCF REST Services - CodeProject
+https://msdn.microsoft.com/es-es/library/jj822950.aspx | Servicios REST en WCF – Mucho trabajo mismo resultado
+http://eslint.org/docs/user-guide/getting-started | Getting Started - ESLint - Pluggable JavaScript linter
+http://eslint.org/docs/user-guide/configuring | Documentation - ESLint - Pluggable JavaScript linter
+http://stackoverflow.com/questions/27732209/turning-off-eslint-rule-for-a-specific-line | javascript - Turning off eslint rule for a specific line - Stack Overflow
+https://msdn.microsoft.com/en-us/library/ms733051(v=vs.110).aspx | How to: Specify a Service Binding in Configuration
+http://stackoverflow.com/questions/303013/whats-the-point-of-a-datacontract-in-wcf | What's the point of a DataContract in WCF? - Stack Overflow
+https://msdn.microsoft.com/en-us/library/system.servicemodel.web.webinvokeattribute.bodystyle.aspx | WebInvokeAttribute.BodyStyle Property (System.ServiceModel.Web)
+https://msdn.microsoft.com/en-us/library/system.servicemodel.web.webmessagebodystyle.aspx | WebMessageBodyStyle Enumeration (System.ServiceModel.Web)
+https://blogs.msdn.microsoft.com/carlosfigueira/2011/08/08/wcf-extensibility-querystringconverter/ | WCF Extensibility – QueryStringConverter | Carlos Figueira MSDN blog
+http://levelnis.co.uk/blog/reducing-controller-dependencies-with-generic-factories | Reducing Controller dependencies with generic factories | Levelnis
+http://blog.drorhelper.com/2012/07/fluent-interfaces-in-c-extension.html | Helper Code: Fluent Interfaces in C# – Extension Methods
+
+https://msdn.microsoft.com/es-es/library/z1hkazw7(v=vs.100).aspx | Recomendaciones de administración de estado de ASP.NET
 http://stackoverflow.com/questions/6763006/how-to-get-the-tbody-element-of-a-table-using-jquery | How to get the tbody element of a table using JQuery? - Stack Overflow
 https://fiddlerbook.com/fiddler/dev/scriptsamples.asp | Fiddler Web Debugger - Script Samples
 http://blog.steveklabnik.com/posts/2011-07-03-nobody-understands-rest-or-http | Nobody Understands REST or HTTP - Literate Programming

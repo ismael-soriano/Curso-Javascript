@@ -13,6 +13,11 @@
                     target.append(tableRow);
                 });
             });
+
+        /* eslint-disable no-unused-vars */
+        var patata = {};
+        /* eslint-enable no-unused-vars */
+        var pepito;
     }
 
     $(document).ready(getCustomers);
